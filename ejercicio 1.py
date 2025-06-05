@@ -7,3 +7,5 @@ pago_total = horas * costo_por_hora
 
 # Mostrar el resultado
 print(f"El pago que le corresponde es: ${pago_total}")
+
+print("holaaaaa")
